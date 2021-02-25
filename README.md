@@ -1,12 +1,15 @@
 # habitist ![habitist](https://github.com/amitness/habitist/workflows/habitist/badge.svg)
 An automation to enable habit tracking in todoist. 
 
+Random stuff: aaaaa
+
 It integrates "Don't Break the Chain" method for habit building into [todoist](http://todoist.com/). Once it's setup, you can forget about it and it works seamlessly.  
 <p align="center">
     <img src="https://i.imgur.com/PVp2TBs.png"/>
 </p>
 
 ## Usage
+
 
 ![Habitist Screenshot](https://i.imgur.com/q4h2QGv.png)
 
